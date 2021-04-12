@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**fernandocm121/fernandocm121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Fernando's github stats](https://github-readme-stats.vercel.app/api?username=fernandocm121&count_private=true&show_icons=true&custom_title=Github%20Status&theme=onedark)
 
 Here are some ideas to get you started:
 
